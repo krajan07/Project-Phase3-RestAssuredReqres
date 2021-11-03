@@ -1,0 +1,8 @@
+[03-Nov-2021 08:50:56] :: [GetPostRequest] :: [INFO] :: Inside postUser test case 
+[03-Nov-2021 08:50:59] :: [GetPostRequest] :: [INFO] :: postUser test case completed successfully!!! 
+ 
+[03-Nov-2021 08:50:59] :: [GetPostRequest] :: [INFO] :: Inside getUsers test case 
+[03-Nov-2021 08:51:00] :: [GetPostRequest] :: [INFO] :: Total Data : 12 
+[03-Nov-2021 08:51:00] :: [GetPostRequest] :: [INFO] :: Per Page Data : 6 
+[03-Nov-2021 08:51:00] :: [GetPostRequest] :: [INFO] :: getUsers test case completed successfully!!!
+ 
